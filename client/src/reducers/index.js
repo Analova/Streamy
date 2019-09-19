@@ -1,6 +1,5 @@
-import { combineReducer } from "redux";
-import { reducer as formReducer } from "redux-form";
+import { combineReducers } from "redux";
 
-export default combineReducer({
-  form: formReducer
+export default combineReducers({
+  replaceMe: () => "aghgtfg"
 });
