@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "ana",
+      "description": "hello",
+      "id": 1
+    },
+    {
+      "title": "ana",
+      "description": "hello",
+      "id": 2
+    },
+    {
+      "title": "second stream",
+      "description": "amazing content",
+      "id": 3
+    }
+  ]
+}
