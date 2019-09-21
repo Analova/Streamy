@@ -14,6 +14,12 @@
       "title": "second stream",
       "description": "amazing content",
       "id": 3
+    },
+    {
+      "title": "Test",
+      "description": "This is a test",
+      "userId": "115759946268341985788",
+      "id": 4
     }
   ]
 }
