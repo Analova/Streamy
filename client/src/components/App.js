@@ -1,16 +1,17 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { Router, Route } from "react-router-dom";
 import StreamCreate from "./streams/StreamCreate";
 import StearmList from "./streams/StreamList";
 import StreamDelete from "./streams/StreamDelete";
 import StreamEdit from "./streams/StreamEdit";
 import StreamShow from "./streams/StreamShow";
 import Header from "./Header";
+import history from "../histroy";
 
 const App = () => {
   return (
     <div className="ui container">
-      <Router>
+      <Router history={history}>
         <div>
           <Header />
           <Route path="/" exact component={StearmList} />
