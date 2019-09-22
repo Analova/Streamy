@@ -1,16 +1,10 @@
 {
   "streams": [
     {
-      "title": "test",
-      "description": "test",
+      "title": "this is a test now",
+      "description": "this is test",
       "userId": "115759946268341985788",
       "id": 1
-    },
-    {
-      "title": "it is working",
-      "description": "it is working",
-      "userId": "115759946268341985788",
-      "id": 2
     }
   ]
 }
