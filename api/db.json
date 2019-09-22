@@ -1,37 +1,16 @@
 {
   "streams": [
     {
-      "title": "ana",
-      "description": "hello",
+      "title": "test",
+      "description": "test",
+      "userId": "115759946268341985788",
       "id": 1
     },
     {
-      "title": "ana",
-      "description": "hello",
+      "title": "it is working",
+      "description": "it is working",
+      "userId": "115759946268341985788",
       "id": 2
-    },
-    {
-      "title": "second stream",
-      "description": "amazing content",
-      "id": 3
-    },
-    {
-      "title": "Test",
-      "description": "This is a test",
-      "userId": "115759946268341985788",
-      "id": 4
-    },
-    {
-      "title": "unexpected",
-      "description": "unexpected ",
-      "userId": "115759946268341985788",
-      "id": 5
-    },
-    {
-      "title": "browser",
-      "description": "browser",
-      "userId": "115759946268341985788",
-      "id": 6
     }
   ]
 }
