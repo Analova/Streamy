@@ -5,6 +5,12 @@
       "description": "test",
       "userId": "115759946268341985788",
       "id": 1
+    },
+    {
+      "title": "Creating a new stream now",
+      "description": "The new strea has been created now",
+      "userId": "115759946268341985788",
+      "id": 3
     }
   ]
 }
